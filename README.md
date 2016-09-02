@@ -18,9 +18,9 @@
 
 ###发现不错的微信公众号
 
-非死不可的RPC框架:thrift 作者公众号：
-
-<img src="http://mmbiz.qpic.cn/mmbiz/YWnUbMibWJE35XJIWiaUtkrHIaRaCQv2hXRsZ0G4r04oMOkjBGfpt4fWdia7K3EOS2W52uzUJev8mPrOEiaqcTEBLw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" width="100" height="100"/>
+>非死不可的RPC框架:thrift 作者公众号：
+>
+><img src="http://mmbiz.qpic.cn/mmbiz/YWnUbMibWJE35XJIWiaUtkrHIaRaCQv2hXRsZ0G4r04oMOkjBGfpt4fWdia7K3EOS2W52uzUJev8mPrOEiaqcTEBLw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" width="100" height="100"/>
 
 ##20160826
 
