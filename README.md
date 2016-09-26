@@ -1,6 +1,10 @@
 #每日阅读
 个人认为好的文章，值得一读
 
+##20160926
+
+- [如何用一款小工具大大加速MySQL SQL语句优化](http://h2ex.com/1627)
+
 ##20160902
 
 - [App架构经验总结](http://mp.weixin.qq.com/s?__biz=MzA4NDc2MDQ1Nw==&mid=2650237954&idx=1&sn=4f15df964f0f8adaaf759944c85c2d59&scene=0#wechat_redirect)
